@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gridfs-locking-stream": "^1.0.3",
+    "mongodb": "^2.0.28",
+    "through2": "^0.6.5"
+  }
+}
